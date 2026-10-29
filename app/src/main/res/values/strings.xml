@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ödev</string>
+
+    <string name="register_title">Kullanıcı Kaydı</string>
+    <string name="name_hint">Ad Soyad</string>
+    <string name="email_hint">E-posta Adresi</string>
+    <string name="age_hint">Yaş</string>
+    <string name="register_button">Kayıt Ol</string>
+
+    <string name="login_title">Kullanıcı Girişi</string>
+    <string name="username_hint">Kullanıcı Adı</string>
+    <string name="password_hint">Şifre</string>
+    <string name="login_button">Giriş Yap</string>
+    <string name="forgot_password">Şifremi Unuttum?</string>
+
+    <string name="image_fern_description">Yeşil yapraklar</string>
+    <string name="image_flower_description">Beyaz çiçek</string>
+    <string name="image_sunset_description">Gün batımında güneş</string>
+    <string name="image_chrysanthemum_description">Sarı çiçek</string>
+</resources>
